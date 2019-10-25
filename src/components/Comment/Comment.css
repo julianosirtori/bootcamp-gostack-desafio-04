@@ -1,0 +1,25 @@
+li {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+li img {
+  width: 28px;
+  height: 28px;
+  border-radius: 16px;
+  margin-right: 10px;
+}
+
+li .content{
+  background: #EEEEEE;
+  border-radius: 20px;
+  padding: 10px 15px 10px 15px
+}
+
+li .content p{
+  font-size: 13px;
+  color: #3E3E3E;
+  line-height: 20px;
+  text-align: left;
+}
